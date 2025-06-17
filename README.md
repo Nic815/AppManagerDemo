@@ -11,19 +11,21 @@ A SwiftUI iOS app that checks whether popular applications like WhatsApp, YouTub
 💚 Aligned status indicators: “Installed” ✅ / “Not Installed” ❌
 
 #Demonstration
+
 Here is the Live Demo of the App
 
 https://github.com/user-attachments/assets/09b025c8-9e5e-4750-a3e6-559e8af5e036
 
 #Screenshots
 
-With Light Mode:-
-![IMG_4274](https://github.com/user-attachments/assets/0bd76b88-aa5c-4cef-a86c-83f196eaa2d4)
-![IMG_4273](https://github.com/user-attachments/assets/acbb82db-03c6-4bfe-ac4c-7e74b40d7311)
+<!-- Light Mode -->
+<img src="https://github.com/user-attachments/assets/0bd76b88-aa5c-4cef-a86c-83f196eaa2d4" height="300"/>
+<img src="https://github.com/user-attachments/assets/acbb82db-03c6-4bfe-ac4c-7e74b40d7311" height="300"/>
 
-With Dark Mode:-
-![IMG_4272](https://github.com/user-attachments/assets/9d81aa36-6a1e-4cb7-90b8-9b6b06195001)
-![IMG_4271](https://github.com/user-attachments/assets/c8873479-332e-400e-b913-bd84a9635c89)
+<!-- Dark Mode -->
+<img src="https://github.com/user-attachments/assets/9d81aa36-6a1e-4cb7-90b8-9b6b06195001" height="300"/>
+<img src="https://github.com/user-attachments/assets/c8873479-332e-400e-b913-bd84a9635c89" height="300"/>
+
 
 
 
