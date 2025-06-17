@@ -1,6 +1,6 @@
 # AppManagerDemo
 
-📱 AppInstalledChecker
+📱 InstalledAppChecker
 A SwiftUI iOS app that checks whether popular applications like WhatsApp, YouTube, Instagram, and others are installed on the device using their URL schemes. The app presents a grouped list by category, uses custom app icons, and includes smooth animations for premium UI experience.
 
 # Demonstration
