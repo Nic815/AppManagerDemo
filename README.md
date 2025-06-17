@@ -3,13 +3,6 @@
 📱 AppInstalledChecker
 A SwiftUI iOS app that checks whether popular applications like WhatsApp, YouTube, Instagram, and others are installed on the device using their URL schemes. The app presents a grouped list by category, uses custom app icons, and includes smooth animations for premium UI experience.
 
-✨ Features
-✅ Detects installation of popular apps (via URL schemes)
-
-📂 Groups apps under category headings (e.g., Social, Productivity)
-
-💚 Aligned status indicators: “Installed” ✅ / “Not Installed” ❌
-
 #Demonstration
 
 Here is the Live Demo of the App
